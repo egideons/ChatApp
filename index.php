@@ -11,8 +11,7 @@ if ( isset( $_SESSION[ 'unique_id' ] ) ) {
 <body>
     <div class='wrapper'>
         <section class='form signup'>
-            <header> <span><a href='../Student Counselling Website/home.html'><img alt='Tenderpath Logo' src='logo.png'
-                            style='height: 65px;width: 200px;'></a><br></span>TenderPath Chat</header>
+            <header>Realtime ChatApp</header>
             <form action='#' method='POST' enctype='multipart/form-data' autocomplete='off'>
                 <div class='error-text'></div>
                 <div class='name-details'>
