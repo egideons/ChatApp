@@ -1,8 +1,9 @@
 ![chatApp](https://user-images.githubusercontent.com/33707645/211301737-1d19ce28-dfd9-4da4-9233-6a9de3195815.jpg)
 
 # Web-based ChatApp
+  A simple chat application that can be run on any modern web browser
+
 - Designed by CodingNepal and edited by egideons 
-- A simple chat application that is web based
 - This website is locally hosted on the pc using xampp or any local hosting software
 
 # LIST OF APPLICATIONS AND CODEBASES USED:
@@ -34,6 +35,7 @@
 - Scroll down and click on the "Go" button
 - It will automatically import the database.
 - Type in the search bar "Localhost/ChatApp or 127.0.0.1/ChatApp"
+- That is all, you can interact with the website
 
 
 # PLEASE NOTE: 
