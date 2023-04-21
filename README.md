@@ -3,7 +3,7 @@
 # Web-based ChatApp
   A simple chat application that can be run on any modern web browser
 
-- Designed by CodingNepal and edited by egideons 
+- Designed by egideons 
 - This website is locally hosted on the pc using xampp or any local hosting software
 
 # LIST OF APPLICATIONS AND CODEBASES USED:
